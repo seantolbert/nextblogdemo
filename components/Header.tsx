@@ -13,7 +13,7 @@ function Header() {
             alt="Logo"
           />
         </Link>
-        <h1>Tolbert & Co</h1>
+        <h1 className="uppercase text-sm tracking-[8px]">Tolbert & Co</h1>
       </div>
 
       <div>
